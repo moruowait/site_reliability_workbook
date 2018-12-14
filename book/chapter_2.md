@@ -146,4 +146,4 @@ SLI 实现
 
 考虑一个简化的手机游戏架构，如图2-1所示。
 
-![image](https://github.com/moruowait/site_reliability_workbook/master/book/figure/Figure2-1.png)
+![image](/book/figure/Figure2-1.png)
